@@ -6,12 +6,15 @@ import pylexibank
 from clldutils.misc import slug
 
 
-
+@attr.s
+class CustomLanguage(pylexibank.Language):
+    SubGroup = attr.ib(default=None)
 
 
 class Dataset(pylexibank.Dataset):
     id = "ielexfinal"
     dir = Path(__file__).parent
+    language_class = CustomLanguage
 
 
     def cmd_makecldf(self, args):
@@ -30,13 +33,13 @@ class Dataset(pylexibank.Dataset):
                     concept["CONCEPTICON_GLOSS"]),
             )
             concept_lookup[concept["CONCEPTICON_GLOSS"]] = idx
-        args.writer.add_languages()
+        languages = args.writer.add_languages(lookup_factory="Name")
         args.writer.add_sources()
 
         for row in data:
             lex = args.writer.add_form(
                     Parameter_ID=concept_lookup[row["CONCEPT"]],
-                    Language_ID=row["LANGUAGE"],
+                    Language_ID=languages[row["LANGUAGE"]],
                     Value="---",
                     Form="---",
                     Cognacy=row["COGNATE"],

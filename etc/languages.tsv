@@ -1,95 +1,95 @@
-ID	Glottocode	Name
-Old_Irish	oldi1246	Old_Irish
-Irish	iris1253	Irish_B
-Scots_Gaelic	scot1245	Scots_Gaelic
-Welsh	wels1247	Welsh_N
-Breton	bret1244	Breton_ST
-Cornish	corn1251	Cornish
-Latin	lati1261	Latin
-Nuorese	nuor1238	Sardinian_N
-Cagliari	sard1257	Sardinian_C
-Romanian	megl1237	Rumanian_List
-Arumanian	arom1237	Vlach
-Catalan	stan1289	Catalan
-Portuguese	port1283	Portuguese_ST
-Spanish	stan1288	Spanish
-French	stan1290	French
-Provencal	prov1235	Provencal
-Walloon	wall1255	Walloon
-Ladin	ladi1250	Ladin
-Romansh	roma1326	Romansh
-Friulian	friu1240	Friulian
-Italian	ital1282	Italian
-Gothic	goth1244	Gothic
-Old_West_Norse	oldw1240	Old_Norse
-Icelandic	icel1247	Icelandic_ST
-Faroese	faro1244	Faroese
-Norwegian	norw1258	Norwegian
-Swedish	swed1254	Swedish
-Danish	dani1285	Danish
-English	stan1293	English
-Old_English	olde1238	Old_English
-Frisian	fris1239	Frisian
-Old_High_German	oldh1241	Old_High_German
-German	stan1295	German
-Luxembourgish	luxe1243	Luxembourgish
-Swiss_German	swis1247	Schwyzerdutsch
-Dutch	cent2352	Dutch_List
-Flemish	cent2353	Flemish
-Afrikaans	afri1274	Afrikaans
-Tosk	alba1268	Albanian_Standard
-Arvanitika	arva1236	Albanian_T
-Ancient_Greek	anci1242	Ancient_Greek
-Modern_Greek	mode1248	Greek_Mod
-Classical_Armenian	clas1256	Classical_Armenian
-Eastern_Armenian	nucl1235	Armenian_Mod
-Adapazar	homs1234	Armenian_List
-Old_Prussian	prus1238	Old_Prussian
-Lithuanian	lith1251	Lithuanian_ST
-Latvian	latv1249	Latvian
-Czech	czec1258	Czech
-Slovak	slov1269	Slovak
-Polish	poli1260	Polish
-Lower_Sorbian	lowe1385	Lower_Sorbian
-Upper_Sorbian	uppe1395	Upper_Sorbian
-Ukrainian	ukra1253	Ukrainian
-Belarusian	bela1254	Byelorussian
-Russian	russ1263	Russian
-Slovenian	slov1268	Slovenian
-Macedonian	mace1250	Macedonian
-Bulgarian	bulg1262	Bulgarian
-Serbian	sout1528	Serbian
-Old_Church_Slavic	chur1257	Old_Church_Slavonic
-Avestan	aves1237	Avestan
-Pashto	pash1269	Pashto
-Waziri	waci1238	Waziri
-Tajik	taji1245	Tadzik
-Persian	west2369	Persian
-Sogdian	sogd1245	Sogdian
-Wakhi	wakh1245	Wakhi
-Baluchi	east2304	Baluchi
-Kurdish	kurd1259	Kurdish
-Zazaki	kirm1248	Zazaki
-Shughni	shug1248	Shughni
-Sariqoli	sari1246	Sariqoli
-Digor_Ossetic	digo1242	Digor_Ossetic
-Vedic_Sanskrit	sans1269	Vedic_Sanskrit
-Nepali	nepa1254	Nepali
-Assamese	assa1263	Assamese
-Oriya	oriy1255	Oriya
-Bengali	beng1280	Bengali
-Bihari	biha1245	Bihari
-Marwari	marw1260	Marwari
-Hindi	hind1269	Hindi
-Urdu	urdu1245	Urdu
-Sindhi	sind1272	Sindhi
-Lahnda	lahn1241	Lahnda
-Panjabi	panj1256	Panjabi_ST
-Gujarati	guja1252	Gujarati
-Marathi	mara1378	Marathi
-Kashmiri	kash1277	Kashmiri
-Singhalese	sinh1246	Singhalese
-Romani	roma1329	Gypsy_Gk
-Tocharian_A	tokh1242	Tocharian_A
-Tocharian_B	tokh1243	Tocharian_B
-Hittite	hitt1242	Hittite
+Name	SubGroup	Glottocode	ID
+Old_Irish	Celtic	oldi1246	Old_Irish
+Irish	Celtic	iris1253	Irish_B
+Scots_Gaelic	Celtic	scot1245	Scots_Gaelic
+Welsh	Celtic	wels1247	Welsh_N
+Breton	Celtic	bret1244	Breton_ST
+Cornish	Celtic	corn1251	Cornish
+Latin	Romance	lati1261	Latin
+Nuorese	Romance	nuor1238	Sardinian_N
+Cagliari	Romance	sard1257	Sardinian_C
+Romanian	Romance	megl1237	Rumanian_List
+Arumanian	Romance	arom1237	Vlach
+Catalan	Romance	stan1289	Catalan
+Portuguese	Romance	port1283	Portuguese_ST
+Spanish	Romance	stan1288	Spanish
+French	Romance	stan1290	French
+Provencal	Romance	prov1235	Provencal
+Walloon	Romance	wall1255	Walloon
+Ladin	Romance	ladi1250	Ladin
+Romansh	Romance	roma1326	Romansh
+Friulian	Romance	friu1240	Friulian
+Italian	Romance	ital1282	Italian
+Gothic	Germanic	goth1244	Gothic
+Old_West_Norse	Germanic	oldw1240	Old_Norse
+Icelandic	Germanic	icel1247	Icelandic_ST
+Faroese	Germanic	faro1244	Faroese
+Norwegian	Germanic	norw1258	Norwegian
+Swedish	Germanic	swed1254	Swedish
+Danish	Germanic	dani1285	Danish
+English	Germanic	stan1293	English
+Old_English	Germanic	olde1238	Old_English
+Frisian	Germanic	fris1239	Frisian
+Old_High_German	Germanic	oldh1241	Old_High_German
+German	Germanic	stan1295	German
+Luxembourgish	Germanic	luxe1243	Luxembourgish
+Swiss_German	Germanic	swis1247	Schwyzerdutsch
+Dutch	Germanic	cent2352	Dutch_List
+Flemish	Germanic	cent2353	Flemish
+Afrikaans	Germanic	afri1274	Afrikaans
+Tosk	Albanian	alba1268	Albanian_Standard
+Arvanitika	Albanian	arva1236	Albanian_T
+Ancient_Greek	Greek	anci1242	Ancient_Greek
+Modern_Greek	Greek	mode1248	Greek_Mod
+Classical_Armenian	Armenian	clas1256	Classical_Armenian
+Eastern_Armenian	Armenian	nucl1235	Armenian_Mod
+Adapazar	Armenian	homs1234	Armenian_List
+Old_Prussian	Balto-Slavic	prus1238	Old_Prussian
+Lithuanian	Balto-Slavic	lith1251	Lithuanian_ST
+Latvian	Balto-Slavic	latv1249	Latvian
+Czech	Balto-Slavic	czec1258	Czech
+Slovak	Balto-Slavic	slov1269	Slovak
+Polish	Balto-Slavic	poli1260	Polish
+Lower_Sorbian	Balto-Slavic	lowe1385	Lower_Sorbian
+Upper_Sorbian	Balto-Slavic	uppe1395	Upper_Sorbian
+Ukrainian	Balto-Slavic	ukra1253	Ukrainian
+Belarusian	Balto-Slavic	bela1254	Byelorussian
+Russian	Balto-Slavic	russ1263	Russian
+Slovenian	Balto-Slavic	slov1268	Slovenian
+Macedonian	Balto-Slavic	mace1250	Macedonian
+Bulgarian	Balto-Slavic	bulg1262	Bulgarian
+Serbian	Balto-Slavic	sout1528	Serbian
+Old_Church_Slavic	Balto-Slavic	chur1257	Old_Church_Slavonic
+Avestan	Indo-Aryan	aves1237	Avestan
+Pashto	Indo-Aryan	pash1269	Pashto
+Waziri	Indo-Aryan	waci1238	Waziri
+Tajik	Indo-Aryan	taji1245	Tadzik
+Persian	Indo-Aryan	west2369	Persian
+Sogdian	Indo-Aryan	sogd1245	Sogdian
+Wakhi	Indo-Aryan	wakh1245	Wakhi
+Baluchi	Indo-Aryan	east2304	Baluchi
+Kurdish	Indo-Aryan	kurd1259	Kurdish
+Zazaki	Indo-Aryan	kirm1248	Zazaki
+Shughni	Indo-Aryan	shug1248	Shughni
+Sariqoli	Indo-Aryan	sari1246	Sariqoli
+Digor_Ossetic	Indo-Aryan	digo1242	Digor_Ossetic
+Vedic_Sanskrit	Indo-Aryan	sans1269	Vedic_Sanskrit
+Nepali	Indo-Aryan	nepa1254	Nepali
+Assamese	Indo-Aryan	assa1263	Assamese
+Oriya	Indo-Aryan	oriy1255	Oriya
+Bengali	Indo-Aryan	beng1280	Bengali
+Bihari	Indo-Aryan	biha1245	Bihari
+Marwari	Indo-Aryan	marw1260	Marwari
+Hindi	Indo-Aryan	hind1269	Hindi
+Urdu	Indo-Aryan	urdu1245	Urdu
+Sindhi	Indo-Aryan	sind1272	Sindhi
+Lahnda	Indo-Aryan	lahn1241	Lahnda
+Panjabi	Indo-Aryan	panj1256	Panjabi_ST
+Gujarati	Indo-Aryan	guja1252	Gujarati
+Marathi	Indo-Aryan	mara1378	Marathi
+Kashmiri	Indo-Aryan	kash1277	Kashmiri
+Singhalese	Indo-Aryan	sinh1246	Singhalese
+Romani	Indo-Aryan	roma1329	Gypsy_Gk
+Tocharian_A	Tocharian	tokh1242	Tocharian_A
+Tocharian_B	Tocharian	tokh1243	Tocharian_B
+Hittite	Hittite	hitt1242	Hittite

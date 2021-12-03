@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/lexibank/ielexfinal",
             "rdf:type": "prov:Entity",
-            "dc:created": "57008a6",
+            "dc:created": "8cf2304",
             "dc:title": "Repository"
         },
         {
@@ -218,6 +218,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SubGroup"
                     }
                 ],
                 "primaryKey": [
