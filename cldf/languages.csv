@@ -1,95 +1,95 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-Old_Irish,Old_Irish,oldi1246,,,,,,
-Irish,Irish_B,iris1253,,,,,,
-Scots_Gaelic,Scots_Gaelic,scot1245,,,,,,
-Welsh,Welsh_N,wels1247,,,,,,
-Breton,Breton_ST,bret1244,,,,,,
-Cornish,Cornish,corn1251,,,,,,
-Latin,Latin,lati1261,,,,,,
-Nuorese,Sardinian_N,nuor1238,,,,,,
-Cagliari,Sardinian_C,sard1257,,,,,,
-Romanian,Rumanian_List,megl1237,,,,,,
-Arumanian,Vlach,arom1237,,,,,,
-Catalan,Catalan,stan1289,,,,,,
-Portuguese,Portuguese_ST,port1283,,,,,,
-Spanish,Spanish,stan1288,,,,,,
-French,French,stan1290,,,,,,
-Provencal,Provencal,prov1235,,,,,,
-Walloon,Walloon,wall1255,,,,,,
-Ladin,Ladin,ladi1250,,,,,,
-Romansh,Romansh,roma1326,,,,,,
-Friulian,Friulian,friu1240,,,,,,
-Italian,Italian,ital1282,,,,,,
-Gothic,Gothic,goth1244,,,,,,
-Old_West_Norse,Old_Norse,oldw1240,,,,,,
-Icelandic,Icelandic_ST,icel1247,,,,,,
-Faroese,Faroese,faro1244,,,,,,
-Norwegian,Norwegian,norw1258,,,,,,
-Swedish,Swedish,swed1254,,,,,,
-Danish,Danish,dani1285,,,,,,
-English,English,stan1293,,,,,,
-Old_English,Old_English,olde1238,,,,,,
-Frisian,Frisian,fris1239,,,,,,
-Old_High_German,Old_High_German,oldh1241,,,,,,
-German,German,stan1295,,,,,,
-Luxembourgish,Luxembourgish,luxe1243,,,,,,
-Swiss_German,Schwyzerdutsch,swis1247,,,,,,
-Dutch,Dutch_List,cent2352,,,,,,
-Flemish,Flemish,cent2353,,,,,,
-Afrikaans,Afrikaans,afri1274,,,,,,
-Tosk,Albanian_Standard,alba1268,,,,,,
-Arvanitika,Albanian_T,arva1236,,,,,,
-Ancient_Greek,Ancient_Greek,anci1242,,,,,,
-Modern_Greek,Greek_Mod,mode1248,,,,,,
-Classical_Armenian,Classical_Armenian,clas1256,,,,,,
-Eastern_Armenian,Armenian_Mod,nucl1235,,,,,,
-Adapazar,Armenian_List,homs1234,,,,,,
-Old_Prussian,Old_Prussian,prus1238,,,,,,
-Lithuanian,Lithuanian_ST,lith1251,,,,,,
-Latvian,Latvian,latv1249,,,,,,
-Czech,Czech,czec1258,,,,,,
-Slovak,Slovak,slov1269,,,,,,
-Polish,Polish,poli1260,,,,,,
-Lower_Sorbian,Lower_Sorbian,lowe1385,,,,,,
-Upper_Sorbian,Upper_Sorbian,uppe1395,,,,,,
-Ukrainian,Ukrainian,ukra1253,,,,,,
-Belarusian,Byelorussian,bela1254,,,,,,
-Russian,Russian,russ1263,,,,,,
-Slovenian,Slovenian,slov1268,,,,,,
-Macedonian,Macedonian,mace1250,,,,,,
-Bulgarian,Bulgarian,bulg1262,,,,,,
-Serbian,Serbian,sout1528,,,,,,
-Old_Church_Slavic,Old_Church_Slavonic,chur1257,,,,,,
-Avestan,Avestan,aves1237,,,,,,
-Pashto,Pashto,pash1269,,,,,,
-Waziri,Waziri,waci1238,,,,,,
-Tajik,Tadzik,taji1245,,,,,,
-Persian,Persian,west2369,,,,,,
-Sogdian,Sogdian,sogd1245,,,,,,
-Wakhi,Wakhi,wakh1245,,,,,,
-Baluchi,Baluchi,east2304,,,,,,
-Kurdish,Kurdish,kurd1259,,,,,,
-Zazaki,Zazaki,kirm1248,,,,,,
-Shughni,Shughni,shug1248,,,,,,
-Sariqoli,Sariqoli,sari1246,,,,,,
-Digor_Ossetic,Digor_Ossetic,digo1242,,,,,,
-Vedic_Sanskrit,Vedic_Sanskrit,sans1269,,,,,,
-Nepali,Nepali,nepa1254,,,,,,
-Assamese,Assamese,assa1263,,,,,,
-Oriya,Oriya,oriy1255,,,,,,
-Bengali,Bengali,beng1280,,,,,,
-Bihari,Bihari,biha1245,,,,,,
-Marwari,Marwari,marw1260,,,,,,
-Hindi,Hindi,hind1269,,,,,,
-Urdu,Urdu,urdu1245,,,,,,
-Sindhi,Sindhi,sind1272,,,,,,
-Lahnda,Lahnda,lahn1241,,,,,,
-Panjabi,Panjabi_ST,panj1256,,,,,,
-Gujarati,Gujarati,guja1252,,,,,,
-Marathi,Marathi,mara1378,,,,,,
-Kashmiri,Kashmiri,kash1277,,,,,,
-Singhalese,Singhalese,sinh1246,,,,,,
-Romani,Gypsy_Gk,roma1329,,,,,,
-Tocharian_A,Tocharian_A,tokh1242,,,,,,
-Tocharian_B,Tocharian_B,tokh1243,,,,,,
-Hittite,Hittite,hitt1242,,,,,,
+Old_Irish,Old_Irish,oldi1246,Old Irish (8-9th century),,Eurasia,,,Indo-European
+Irish,Irish_B,iris1253,Irish,gle,Eurasia,53.2186,-7.61509,Indo-European
+Scots_Gaelic,Scots_Gaelic,scot1245,Scottish Gaelic,gla,Eurasia,56.7574,-5.24366,Indo-European
+Welsh,Welsh_N,wels1247,Welsh,cym,Eurasia,52.0,-4.0,Indo-European
+Breton,Breton_ST,bret1244,Breton,bre,Eurasia,48.2452,-3.78934,Indo-European
+Cornish,Cornish,corn1251,Cornish,cor,Eurasia,50.5233,-4.18619,Indo-European
+Latin,Latin,lati1261,Latin,lat,Eurasia,41.9026,12.4502,Indo-European
+Nuorese,Sardinian_N,nuor1238,Nuorese,,Eurasia,,,Indo-European
+Cagliari,Sardinian_C,sard1257,Sardinian,,,,,Indo-European
+Romanian,Rumanian_List,megl1237,Megleno Romanian,ruq,Eurasia,41.1174,22.3782,Indo-European
+Arumanian,Vlach,arom1237,Aromanian,rup,Eurasia,40.616,21.2,Indo-European
+Catalan,Catalan,stan1289,Catalan,cat,Eurasia,41.453,1.569,Indo-European
+Portuguese,Portuguese_ST,port1283,Portuguese,por,Eurasia,39.91,-8.1,Indo-European
+Spanish,Spanish,stan1288,Spanish,spa,Eurasia,40.4414,-1.11788,Indo-European
+French,French,stan1290,French,fra,Eurasia,48.0,2.0,Indo-European
+Provencal,Provencal,prov1235,Provençal,,Eurasia,,,Indo-European
+Walloon,Walloon,wall1255,Walloon,wln,Eurasia,50.2235,5.14509,Indo-European
+Ladin,Ladin,ladi1250,Ladin,lld,Eurasia,46.60651,11.89498,Indo-European
+Romansh,Romansh,roma1326,Romansh,roh,Eurasia,46.5538,9.92812,Indo-European
+Friulian,Friulian,friu1240,Friulian,fur,Eurasia,46.1473,13.0493,Indo-European
+Italian,Italian,ital1282,Italian,ita,Eurasia,43.0464,12.6489,Indo-European
+Gothic,Gothic,goth1244,Gothic,got,Eurasia,46.9304,29.9786,Indo-European
+Old_West_Norse,Old_Norse,oldw1240,Old West Norse,,Eurasia,,,Indo-European
+Icelandic,Icelandic_ST,icel1247,Icelandic,isl,Eurasia,63.4837,-19.0212,Indo-European
+Faroese,Faroese,faro1244,Faroese,fao,Eurasia,62.0732,-6.88497,Indo-European
+Norwegian,Norwegian,norw1258,Norwegian,nor,Eurasia,59.92,10.71,Indo-European
+Swedish,Swedish,swed1254,Swedish,swe,Eurasia,59.800634,17.389526,Indo-European
+Danish,Danish,dani1285,Danish,dan,Eurasia,54.8655,9.36284,Indo-European
+English,English,stan1293,English,eng,Eurasia,53.0,-1.0,Indo-European
+Old_English,Old_English,olde1238,Old English (ca. 450-1100),ang,Eurasia,51.06,-1.31,Indo-European
+Frisian,Frisian,fris1239,Frisian,,,,,Indo-European
+Old_High_German,Old_High_German,oldh1241,Old High German (ca. 750-1050),goh,Eurasia,52.0,10.0,Indo-European
+German,German,stan1295,German,deu,Eurasia,48.649,12.4676,Indo-European
+Luxembourgish,Luxembourgish,luxe1243,Luxemburgish,,Eurasia,,,Indo-European
+Swiss_German,Schwyzerdutsch,swis1247,Central Alemannic,gsw,Eurasia,47.0516,8.46419,Indo-European
+Dutch,Dutch_List,cent2352,Central Northern Dutch,,Eurasia,,,Indo-European
+Flemish,Flemish,cent2353,Central Southern Dutch,,Eurasia,,,Indo-European
+Afrikaans,Afrikaans,afri1274,Afrikaans,afr,Africa,-22.0,30.0,Indo-European
+Tosk,Albanian_Standard,alba1268,Albanian-Tosk,,,,,Indo-European
+Arvanitika,Albanian_T,arva1236,Arvanitika Albanian,aat,Eurasia,38.283,23.3703,Indo-European
+Ancient_Greek,Ancient_Greek,anci1242,Ancient Greek,grc,Eurasia,39.8155,21.9129,Indo-European
+Modern_Greek,Greek_Mod,mode1248,Modern Greek,ell,Eurasia,38.36,23.13,Indo-European
+Classical_Armenian,Classical_Armenian,clas1256,Classical Armenian,,Eurasia,,,Indo-European
+Eastern_Armenian,Armenian_Mod,nucl1235,Eastern Armenian,hye,Eurasia,40.0,45.0,Indo-European
+Adapazar,Armenian_List,homs1234,Western Armenian,hyw,Eurasia,40.1897,44.4839,Indo-European
+Old_Prussian,Old_Prussian,prus1238,Old Prussian,prg,Eurasia,52.394,14.757,Indo-European
+Lithuanian,Lithuanian_ST,lith1251,Lithuanian,lit,Eurasia,55.1429,23.9601,Indo-European
+Latvian,Latvian,latv1249,Latvian,lav,Eurasia,56.826108,24.309118,Indo-European
+Czech,Czech,czec1258,Czech,ces,Eurasia,49.873398,15.10437,Indo-European
+Slovak,Slovak,slov1269,Slovak,slk,Eurasia,48.545705,18.78479,Indo-European
+Polish,Polish,poli1260,Polish,pol,Eurasia,51.8439,18.6255,Indo-European
+Lower_Sorbian,Lower_Sorbian,lowe1385,Lower Sorbian,dsb,Eurasia,51.6621,13.9407,Indo-European
+Upper_Sorbian,Upper_Sorbian,uppe1395,Upper Sorbian,hsb,Eurasia,51.2403,14.4098,Indo-European
+Ukrainian,Ukrainian,ukra1253,Ukrainian,ukr,Eurasia,49.796,29.945,Indo-European
+Belarusian,Byelorussian,bela1254,Belarusian,bel,Eurasia,53.2307,25.6038,Indo-European
+Russian,Russian,russ1263,Russian,rus,Eurasia,59.0,50.0,Indo-European
+Slovenian,Slovenian,slov1268,Slovenian,slv,Eurasia,46.2543,14.7766,Indo-European
+Macedonian,Macedonian,mace1250,Macedonian,mkd,Eurasia,41.5957,21.7932,Indo-European
+Bulgarian,Bulgarian,bulg1262,Bulgarian,bul,Eurasia,43.3646,25.047,Indo-European
+Serbian,Serbian,sout1528,Serbian-Croatian-Bosnian,hbs,Eurasia,44.15,18.81,Indo-European
+Old_Church_Slavic,Old_Church_Slavonic,chur1257,Church Slavic,chu,Eurasia,43.7171,22.8442,Indo-European
+Avestan,Avestan,aves1237,Avestan,ave,Eurasia,31.541,53.633,Indo-European
+Pashto,Pashto,pash1269,Pashto,,,,,Indo-European
+Waziri,Waziri,waci1238,Waciri,,Eurasia,,,Indo-European
+Tajik,Tadzik,taji1245,Tajik,tgk,Eurasia,38.8213,68.5549,Indo-European
+Persian,Persian,west2369,Western Farsi,pes,Eurasia,32.9,53.3,Indo-European
+Sogdian,Sogdian,sogd1245,Sogdian,sog,Eurasia,39.7,66.983,Indo-European
+Wakhi,Wakhi,wakh1245,Wakhi,wbl,Eurasia,37.1768,73.9777,Indo-European
+Baluchi,Baluchi,east2304,Eastern Balochi,bgp,Eurasia,28.0,62.0,Indo-European
+Kurdish,Kurdish,kurd1259,Kurdish,kur,Eurasia,,,Indo-European
+Zazaki,Zazaki,kirm1248,Kirmanjki,kiu,Eurasia,39.1636,39.4004,Indo-European
+Shughni,Shughni,shug1248,Shughni,sgh,Eurasia,37.5018,71.7925,Indo-European
+Sariqoli,Sariqoli,sari1246,Sarikoli,srh,Eurasia,37.905,75.1449,Indo-European
+Digor_Ossetic,Digor_Ossetic,digo1242,Digor Ossetian,,Eurasia,43.158056,44.156944,Indo-European
+Vedic_Sanskrit,Vedic_Sanskrit,sans1269,Sanskrit,san,Eurasia,20.0,77.0,Indo-European
+Nepali,Nepali,nepa1254,Nepali,npi,Eurasia,28.0,85.0,Indo-European
+Assamese,Assamese,assa1263,Assamese,asm,Eurasia,26.0876,91.2932,Indo-European
+Oriya,Oriya,oriy1255,Odia,ory,Eurasia,21.0,85.0,Indo-European
+Bengali,Bengali,beng1280,Bengali,ben,Eurasia,24.0,90.0,Indo-European
+Bihari,Bihari,biha1245,Bihari,,,,,Indo-European
+Marwari,Marwari,marw1260,Marwari (India),rwr,Eurasia,27.002,75.0656,Indo-European
+Hindi,Hindi,hind1269,Hindi,hin,Eurasia,25.0,77.0,Indo-European
+Urdu,Urdu,urdu1245,Urdu,urd,Eurasia,25.0,67.0,Indo-European
+Sindhi,Sindhi,sind1272,Sindhi,snd,Eurasia,26.0,69.0,Indo-European
+Lahnda,Lahnda,lahn1241,Lahnda,,,,,Indo-European
+Panjabi,Panjabi_ST,panj1256,Eastern Panjabi,pan,Eurasia,30.0368,75.6702,Indo-European
+Gujarati,Gujarati,guja1252,Gujarati,guj,Eurasia,22.687,71.0962,Indo-European
+Marathi,Marathi,mara1378,Marathi,mar,Eurasia,17.9344,76.6665,Indo-European
+Kashmiri,Kashmiri,kash1277,Kashmiri,kas,Eurasia,34.166825,74.330455,Indo-European
+Singhalese,Singhalese,sinh1246,Sinhala,sin,Eurasia,8.0,81.0,Indo-European
+Romani,Gypsy_Gk,roma1329,Romani,rom,Eurasia,,,Indo-European
+Tocharian_A,Tocharian_A,tokh1242,Tokharian A,xto,Eurasia,42.98,89.18,Indo-European
+Tocharian_B,Tocharian_B,tokh1243,Tokharian B,txb,Eurasia,41.65,82.9,Indo-European
+Hittite,Hittite,hitt1242,Hittite,hit,Eurasia,40.0,35.0,Indo-European
