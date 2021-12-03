@@ -1,0 +1,1 @@
+This dataset does not contain the actual word forms, but rather only the cognate judgements. Given that it provides something like a final version of the IELex database, which is also authorized by the original author, we decided to link it CLDF.
