@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Dunn, M. and Tresolid, T. (2021): IELex Data and Trees.
+  > Dunn, M. and Tresoldi, T. (2021): IELex Data and Trees. Zenodo: 10.5281/zenodo.5556801.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -27,20 +27,20 @@ This dataset does not contain the actual word forms, but rather only the cognate
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 94
-- **Concepts:** 207
-- **Lexemes:** 21,483
+- **Varieties:** 148 (linked to 123 different Glottocodes)
+- **Concepts:** 207 (linked to 207 different Concepticon concept sets)
+- **Lexemes:** 33,922
 - **Sources:** 1
-- **Synonymy:** 1.15
-- **Cognacy:** 21,483 cognates in 3,730 cognate sets (1,128 singletons)
-- **Cognate Diversity:** 0.17
+- **Synonymy:** 1.22
+- **Cognacy:** 33,922 cognates in 3,908 cognate sets (603 singletons)
+- **Cognate Diversity:** 0.11
 
 # Contributors
 
 Name               | GitHub user | Descriptin |Role
 ---                | ---         | --- | ---
 Johann-Mattis List | @LinguList  | cldf conversion | Other 
-Dunn, Michael | | data collection | Author
+Dunn, Michael | @evoling | data collection | Author
 Tiago Tresoldi | @tresoldi | data preparation | Author
 
 
