@@ -25,7 +25,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Dunn, M. and Tresolid, T. (2021): IELex Data and Trees.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Dunn, M. and Tresoldi, T. (2021): IELex Data and Trees. Zenodo: 10.5281/zenodo.5556801.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

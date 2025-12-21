@@ -16,38 +16,32 @@ class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     language_class = CustomLanguage
 
-
     def cmd_makecldf(self, args):
-        data = self.raw_dir.read_csv("ielex.csv", delimiter=",", dicts=True)
-        concept_lookup = {}
-        glosses = {
-                "FEAR (TO BE AFRAID)": "FEAR (BE AFRAID)",
-                }
-        for concept in self.concepts:
-            idx = concept["ID"] + "_" + slug(concept["ENGLISH"])
-            args.writer.add_concept(
-                ID=idx,
-                Name=concept["ENGLISH"],
-                Concepticon_ID=concept["CONCEPTICON_ID"],
-                Concepticon_Gloss=glosses.get(concept["CONCEPTICON_GLOSS"],
-                    concept["CONCEPTICON_GLOSS"]),
-            )
-            concept_lookup[concept["CONCEPTICON_GLOSS"]] = idx
-        languages = args.writer.add_languages(lookup_factory="Name")
-        args.writer.add_sources()
+        languages = args.writer.add_languages(
+            lookup_factory=lambda c: c['ID'].lower()
+        )
+        concepts = args.writer.add_concepts(
+            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english),
+            lookup_factory=lambda c: c.english
+        )
+        
+        for row in self.raw_dir.read_csv("ielex-130421-ag-cc.txt", delimiter="\t", dicts=True):
+            concept = row['cc_alias'].split("-")[0]
 
-        for row in data:
-            lex = args.writer.add_form(
-                    Parameter_ID=concept_lookup[row["CONCEPT"]],
-                    Language_ID=languages[row["LANGUAGE"]],
-                    Value="---",
-                    Form="---",
-                    Cognacy=row["COGNATE"],
-                    Source="dunn2021"
-                    )
-            args.writer.add_cognate(
+            # NB the below includes forms marked 'exclude'
+            loan = True if row['status'] else False
+
+            for lex in args.writer.add_forms_from_value(
+                Parameter_ID=concepts[concept],
+                Language_ID=languages[row["language"].lower()],
+                Value=row["lexeme"],
+                Cognacy=row["cc_alias"],
+                Source="dunn2021",
+                Loan=loan):
+                
+                args.writer.add_cognate(
                     lexeme=lex,
-                    Cognateset_ID=row["COGNATE"],
-                    Source="dunn2021"
-                    )
-
+                    Cognateset_ID=row["cc_alias"],
+                    Source="dunn2021")
+            
+        args.writer.add_sources()
